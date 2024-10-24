@@ -15,7 +15,7 @@ https://mocuacqu.github.io/personalWeb1/
 https://mocuacqu.github.io/PL_work2_javascropt/
 
 (2) 介紹影片
-https://drive.google.com/file/d/1QHfZg28I1SQbmp4iiBlP-jx9_bp9Xe6V/view?usp=sharing
+[https://drive.google.com/file/d/1QHfZg28I1SQbmp4iiBlP-jx9_bp9Xe6V/view?usp=sharing](https://youtu.be/MRWdD7LSm78)
 
 (3) 與ChatGPT的對話紀錄
 https://chatgpt.com/share/670a655a-97dc-800b-a431-9cda21e33264
