@@ -20,7 +20,13 @@ https://mocuacqu.github.io/PL_work2_javascropt/
 (3) 與ChatGPT的對話紀錄
 https://chatgpt.com/share/670a655a-97dc-800b-a431-9cda21e33264
 
-## HW3
+## HW3 範例專案使用的介紹 & 期末專題發想的關聯
+(1) 介紹影片
+https://youtu.be/mTNopfexsu8
+
+(2)介紹內容簡報
+https://drive.google.com/file/d/1moSR0AT6iwnBppsBaIX1PIqiOayFGnGT/view?usp=sharing
+
 ## HW4
 
 ## 專題繳交區
