@@ -23,8 +23,15 @@
 |--|--|
 
 ## 專題繳交區
-
-
+本次期末專題，我們製作一款華麗抽獎網站，其中包含即時抽獎、資料抽獎、轉輪盤、擲骰子、隨機數字等功能。
+* 抽獎網站
+  | [程式碼](https://github.com/MocuAcqu/1131Lottery) | [實作網站](https://mocuacqu.github.io/1131Lottery/) | [影片解說](https://youtu.be/E1m29F7tk0Y?si=4R1AmqkEFwFT91TD) |
+  |--|--|--|
+* 即時抽獎-登入資料介面
+  | [程式碼](https://github.com/MocuAcqu/1131Lottery-users-signIn) | [實作網站](https://mocuacqu.github.io/1131Lottery-users-signIn/) |
+  |--|--|
+* 畫面展示
+  [image]()
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬
 
