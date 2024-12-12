@@ -31,7 +31,8 @@
   | [程式碼](https://github.com/MocuAcqu/1131Lottery-users-signIn) | [實作網站](https://mocuacqu.github.io/1131Lottery-users-signIn/) |
   |--|--|
 * 畫面展示
-  [image]()
+  | [image](抽獎網站主頁.png) | [image](登入資料頁面.png) |
+  |--|--|
 ## 🤝 聯絡我
 如果你有任何問題或建議，隨時可以聯絡我！💬
 
